@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="category_main_title_unselect">#FF404040</color>
+    <color name="white_color">#FFFFFF</color>
+    <color name="category_main_bg">#FFF3F3F3</color>
+    <color name="category_main_title_select">#FFFE7B01</color>
+    <color name="header_bg_start_color">#FF8602</color>
+    <color name="header_bg_end_color">#FE3F01</color>
+</resources>
